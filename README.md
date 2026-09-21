@@ -37,5 +37,5 @@ Soy Andrés Mejía, estudiante de Ingeniería en Sistemas Computacionales. Eleg�
 ## Declaración de uso de IA
 
 - **Herramienta utilizada:** ChatGPT de OpenAI (GPT-5.6 Sol).
-- **Qué le pedí:** Apoyo para organizar el repositorio, entender el flujo de Git y GitHub, proponer ideas de proyecto que cumplieran los criterios de la materia, estructurar el análisis de viabilidad y localizar ejemplos y fuentes reales.
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** No acepté que la IA inventara experiencias personales para la sección "Dónde lo he visto". Esas observaciones deben salir de situaciones que yo realmente haya visto. También debo revisar los enlaces y adaptar el texto final a mi forma de explicar las ideas antes de entregar.
+- **Qué le pedí:** Apoyo para organizar el repositorio, entender el flujo de Git y GitHub, ya que hay cosas que no supe como organizar y le pedi que me explicara como se hacia para poder comprenderlo y hacerlo solo, asi como la redacion le pedi que me ayudara a aclarar mis ideas para que sean faciles de leer y entender.
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** No acepté que la IA inventara informacion mas alla de la que yo le estaba dando. Ya que varias veces intento modificar mi texto ya que aveces no entendia del todo la idea que yo le expresaba.
